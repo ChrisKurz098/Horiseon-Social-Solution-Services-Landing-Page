@@ -22,3 +22,11 @@ THEN I find a concise, descriptive title
 -logical structure independent of styling and positioning
 #heading attributes fall in sequential order
 #find a concise, descriptive title
+-Repository contains quality README file with description, 
+screenshot, and link to deployed application.
+
+Notepad with 'SEO' written inside on a wooden table
+
+An open laptop with graphs and pie charts and the words 'Reputation" in big bold letters
+
+People sit around a table with varius social media icons scattered across it
