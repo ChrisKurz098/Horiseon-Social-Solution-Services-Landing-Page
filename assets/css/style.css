@@ -8,7 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
-header { /*Changed to reflect semantic element*/
+    /*Changed to reflect semantic element*/
+header { 
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -24,7 +25,8 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header nav { /*Changed to reflect semantic element*/
+    /*Changed to reflect semantic element*/
+header nav { 
     padding-top: 15px;
     margin-right: 20px;
     float: right;
